@@ -4,7 +4,7 @@ The value of the next diagonal in the grid described in the problem can be deter
 
 With that in mind the problem can be solved using two nested for loops in O(n) time because the length of the inner loop is independent of the input size.
 
-# BEFORE: PAST THIS POINT BE RAMBLING
+### BEWARE: PAST THIS POINT BE RAMBLING
 
 This problem, can also be done using math. I haven't finished a formal proof for it, and likely won't but the gist is thus:
 
